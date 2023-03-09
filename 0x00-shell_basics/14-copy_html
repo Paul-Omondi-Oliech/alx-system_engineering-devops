@@ -1,0 +1,2 @@
+$!/vim/bash
+cp -u *.html ..
