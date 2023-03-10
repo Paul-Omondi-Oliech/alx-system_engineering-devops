@@ -1,2 +1,2 @@
-$!/vim/bash
-cp -u *.html ..
+#!bin/bash
+cp -un *.html ../
