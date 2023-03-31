@@ -1,2 +1,2 @@
-#!/bin/bash
-0 string HOLBERTON Holberton data!:mime Holberton
+file --magic-file=magic.mgc input 
+input: School data
